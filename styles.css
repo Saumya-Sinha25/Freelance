@@ -320,7 +320,7 @@ img {
 .landing-page {
   height: 100vh;
   background: linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)),
-    url(images/IMG_0835\ [MConverter.eu].avif) no-repeat center center/cover;
+    url(images/IMG_0835\ [MConverter.eu].webp) no-repeat center center/cover;
   background-attachment: fixed;
   background-size: 100vw 100vh;
   display: flex;
@@ -1157,3 +1157,32 @@ color: #000;
   color: #000;
 
 }
+
+#Rubber-process-oil{
+  background-image: url(./images/rubber.jpeg);
+  background-size: 310px;
+  color: #000;
+
+}
+
+#burning-powder{
+  background-image: url(./images/Powder.jpeg);
+  background-size: 310px;
+  color: #000;
+
+}
+
+#burning-oil{
+  background-image: url(./images/Oil.jpeg);
+  background-size: 310px;
+  color: #000;
+
+}
+
+#latex{
+  background-image: url(./images/latex.jpeg);
+  background-size: 310px;
+  color: #000;
+
+}
+

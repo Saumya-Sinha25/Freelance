@@ -777,6 +777,7 @@ img {
 
 .founders {
   display: flex;
+  flex-direction: row;
   justify-content: center;
   align-items: center;
   gap: 4rem;
@@ -816,8 +817,9 @@ img {
 }
 
 .founder2 {
-  background: url(./images/pexels-linkedin-2182970.jpg) no-repeat center
+  background: url(./images/rajeevuncle.jpeg) no-repeat center
     center/cover;
+    background-size: 290px;
 }
 
 .company-about-card-flex {
@@ -1187,6 +1189,12 @@ color: #000;
   background-size: 310px;
   color: #000;
 
+}
+
+#puregheediyapic{
+  background-image: url(./images/puregheediya.jpeg);
+  background-size: 310px;
+  color: #000;
 }
 
 
